@@ -1,0 +1,14 @@
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\bin\Debug\net8.0\Impiccato.exe
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\bin\Debug\net8.0\Impiccato.deps.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\bin\Debug\net8.0\Impiccato.runtimeconfig.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\bin\Debug\net8.0\Impiccato.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\bin\Debug\net8.0\Impiccato.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.AssemblyInfoInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.AssemblyInfo.cs
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.csproj.CoreCompileInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\refint\Impiccato.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\Impiccato.genruntimeconfig.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Impiccato\Impiccato\obj\Debug\net8.0\ref\Impiccato.dll
